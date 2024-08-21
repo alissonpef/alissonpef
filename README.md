@@ -1,6 +1,6 @@
 <img width=95% src="https://capsule-render.vercel.app/api?type=waving&color=D98E20&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá!!,+meu+nome+é+Álisson+Pereira+Ferreira;Tenho+21+anos+de+idade!;+Sou+de+Araranguá,+SC.;E+estudo+Engenharia+de+Computação+na+UFSC.;SEJA+BEM-VINDO!!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá!!,+meu+nome+é+Álisson+Pereira+Ferreira;Tenho+22+anos+de+idade!;+Sou+de+Santa+Catarina;E+estudo+Engenharia+de+Computação+na+UFSC;SEJA+BEM-VINDO!!+:%29)](https://git.io/typing-svg)
   
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alissonpef&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FF7733&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
