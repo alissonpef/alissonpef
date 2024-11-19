@@ -38,3 +38,11 @@
     <img width="25" src="instagram.png">
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/alissonpef/alissonpef/output/snake.svg" alt="Snake animation" />
+
+###
