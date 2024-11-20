@@ -1,48 +1,55 @@
-<!-- Header Image -->
-<img width="95%" src="https://capsule-render.vercel.app/api?type=waving&color=D98E20&height=120&section=header" alt="Header Image"/>
+## 👋 Hi there, welcome to my Github profile
 
-<!-- Typing SVG Banner -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá!!,+meu+nome+é+Álisson+Pereira+Ferreira;Tenho+22+anos+de+idade!;+Sou+de+Santa+Catarina;E+estudo+Engenharia+de+Computação+na+UFSC;SEJA+BEM-VINDO!!+:%29)](https://git.io/typing-svg)
+- My name is Álisson and I'm a Full Stack Developer, from SC, Brazil 🇧🇷
 
-<!-- GitHub Stats -->
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alissonpef&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FF7733&text_color=c9d1d9&bg_color=0d1117" alt="Alisson Pereira Ferreira GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonpef&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FF7733&bg_color=0d1117" />
-</div>
-<br>
+## About Me
+- Content creator at Quizlet
+- Student at UFSC
 
-<!-- Skills and Technologies -->
-<div align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="350" alt="coding-time" src="Yoda.gif">
-    <h1 align="center">Melhores linguagens</h1>
-    <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />   
-    <img align="center" alt="CPP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-    <h1 align="center">Estudando no momento</h1>
-    <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <!-- Uncomment if needed -->
-    <!-- <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> -->
-    <!-- <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> -->
-    <!-- <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> -->
-  </div>
-  
-  <!-- Social Networks  -->
-  <h1 align="center">Redes Sociais</h1>
-  <a href="mailto:alissonpef@gmail.com">
-    <img width="30" src="gmail.svg">
-  </a>
-  <a href="https://www.linkedin.com/in/alisson-pereira-ferreira-45022623b/">
-    <img width="25" src="linkedin.svg">
-  </a>
-  <a href="https://www.instagram.com/alissonpef/">
-    <img width="25" src="instagram.png">
-  </a>
+<!-- GIF -->
+<img align="right" height="225" alt="coding-time" src="Yoda.gif">
+
+## My Techs
+<!-- Tecnologias utilizadas -->
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++ logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
 </div>
 
-###
+## My Social Medias
+<div align="left">
+    <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/alisson-pereira-ferreira-45022623b/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+  </a>
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/alissonpef/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
+  </a>
+  <!-- Gmail -->
+  <a href="mailto:alissonpef@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
+  </a>
+</div>
 
-<br clear="both">
+## My Stats
+<div align="left">
+  <!-- Gráfico de commits -->
+  <img src="https://github-readme-stats.vercel.app/api?username=alissonpef&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="231" alt="Stats graph" />
+  <!-- Gráfico de linguagens -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alissonpef&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=true&order=2" height="231" alt="Languages graph" />
+</div>
 
-<img src="https://raw.githubusercontent.com/alissonpef/alissonpef/output/snake.svg" alt="Snake animation" />
-
-###
+<!-- Animação da cobra -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/alissonpef/alissonpef/output/snake.svg" alt="Snake animation" />
+</div>
