@@ -44,9 +44,9 @@
 ## My Stats
 <div align="center">
   <!-- Gráfico de commits -->
-  <img src="https://github-readme-stats.vercel.app/api?username=alissonpef&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="200" alt="Stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alissonpef&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="195" alt="Stats graph" />
   <!-- Gráfico de linguagens -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alissonpef&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=true&order=2" height="200" alt="Languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alissonpef&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=true&order=2" height="195" alt="Languages graph" />
 </div>
 
 <!-- Animação da cobra -->
