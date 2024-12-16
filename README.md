@@ -1,10 +1,12 @@
 ## 👋 Hi there, welcome to my Github profile
 
-- My name is Álisson and I'm a Full Stack Developer, from SC, Brazil 🇧🇷
+- My name is Álisson, and I'm an Aspiring Data Scientist from SC, Brazil 🇧🇷;
+- Passionate about Machine Learning & Artificial Intelligence;
+- Python Developer.
 
 ## About Me
 - Content creator at Quizlet
-- Student at UFSC
+- Computer Engineering Student at UFSC.
 
 <!-- GIF -->
 <img align="right" height="225" alt="coding-time" src="Yoda.gif">
@@ -12,18 +14,14 @@
 ## My Techs
 <!-- Tecnologias utilizadas -->
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++ logo" />
-  <img width="12" />
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="Flask logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow logo" />
 </div>
 
 ## My Social Medias
