@@ -41,8 +41,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30"/>
 
 **Técnicas de Inteligência Artificial:**  
-Machine Learning | Deep Learning
-
+<img src="https://github.com/alissonpef/alissonpef/blob/main/deep-learning.png" height="30"/>
+<img src="https://github.com/alissonpef/alissonpef/blob/main/machine-learning.png" height="30"/>
 
 ## 🌐 My Social Medias
 <div align="left">
