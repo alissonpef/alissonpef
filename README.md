@@ -32,7 +32,7 @@
 
 **Ferramentas:**  
 <img src="https://github.com/alissonpef/alissonpef/blob/main/microsoft-excel.png" height="30"/>
-<img src="https://github.com/alissonpef/alissonpef/blob/main/power-bi.png" height="30"/>
+<img src="https://github.com/alissonpef/alissonpef/blob/main/powerbi.png" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30"/>
