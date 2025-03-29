@@ -7,7 +7,7 @@ My name is **Álisson Ferreira**. I am a Computer Engineering student at UFSC (A
 - 🏆 Recognized for academic performance (2024.2)
 - 🔬 Developing my **Thesis on Adaptive Video Streaming with AI Techniques**, applying optimization and reinforcement learning
 - ✍️ Content creator on Quizlet, developing educational materials in Computer Science and Mathematics (in Portuguese and English)
-- 🐍 Python developer focused on data analysis and AI
+- 🐍 Python developer
 
 ## 🛠️ Technologies and Tools
 
