@@ -7,24 +7,44 @@
 ## About Me
 - Content creator at Quizlet
 - Computer Engineering Student at UFSC.
+- Developed my **TCC in Adaptive Video Streaming with AI Techniques**, applying optimization and reinforcement learning methods to improve video transmission quality.
 
 <!-- GIF -->
 <img align="right" height="225" alt="coding-time" src="Yoda.gif">
 
-## My Techs
+## 🛠 My Techs
 <!-- Tecnologias utilizadas -->
-<div align="left">
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="Flask logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow logo" />
-</div>
+**Linguagens de Programação:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
 
-## My Social Medias
+**Bibliotecas e Frameworks:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30"/>
+
+**Banco de Dados:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30"/>
+
+**Ferramentas:**  
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/PowerBI_Logo.png" height="30"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Microsoft_Excel_2013_logo.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30"/>
+
+**Cloud & Big Data:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30"/>
+
+**Técnicas de Inteligência Artificial:**  
+Machine Learning | Deep Learning
+
+
+## 🌐 My Social Medias
 <div align="left">
     <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/alisson-pereira-ferreira-45022623b/" target="_blank" rel="noopener noreferrer">
@@ -40,16 +60,7 @@
   </a>
 </div>
 
-## My Stats
-<div align="center">
-  <!-- Gráfico de commits -->
-  <img src="https://github-readme-stats.vercel.app/api?username=alissonpef&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="195" alt="Stats graph" />
-  <!-- Gráfico de linguagens -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alissonpef&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=true&order=2" height="195" alt="Languages graph" />
-</div>
-
 <!-- Animação da cobra -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/alissonpef/alissonpef/output/snake.svg" alt="Snake animation" />
 </div>
-
