@@ -31,8 +31,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30"/>
 
 **Ferramentas:**  
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/PowerBI_Logo.png" height="30"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Microsoft_Excel_2013_logo.svg" height="30"/>
+<img src="https://github.com/alissonpef/alissonpef/blob/main/microsoft-excel.png" height="30"/>
+<img src="https://github.com/alissonpef/alissonpef/blob/main/power-bi.png" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30"/>
