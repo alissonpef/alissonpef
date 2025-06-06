@@ -1,13 +1,13 @@
 # 👋 Hello! Welcome to my GitHub profile!
 
-My name is **Álisson Ferreira**. I am a Computer Engineering student at UFSC (Araranguá/SC, Brazil 🇧🇷) with an expected graduation in **2026.2**, focused on **Data Science** and **Artificial Intelligence**.
+My name is **Álisson Ferreira**. I am a Computer Engineering student at UFSC (Araranguá/SC, Brazil 🇧🇷) with an expected graduation in **2027.1**, focused on **Backend Development**.
 
 ## 💡 About Me
 
 - 🏆 Recognized for academic performance (UFSC, 2024.2)
-- 🔬 Developing my **Thesis** applying **Reinforcement Learning** to **Adaptive Video Streaming** (AI for network efficiency)
-- ✍️ **Content Contributor** for **Quizlet** (50M+ monthly students), creating clear CS & Math educational materials (PT/EN)
-- 💡 Passionate about transforming data into actionable insights.
+- ✍️ **Content Contributor** for **Quizlet** (50M+ monthly students), creating Computer Science educational materials (PT/EN) – an experience that helps with my English.
+- 💡 Passionate about designing and implementing backend systems, working with APIs, databases, microservices, and architectural patterns.
+- 🚀 Eager to apply my knowledge in the Java and JavaScript ecosystems to tackle challenges and build backend solutions.
 
 ## 🛠️ Technologies and Tools
 
@@ -15,34 +15,22 @@ My name is **Álisson Ferreira**. I am a Computer Engineering student at UFSC (A
 <img align="right" height="225" alt="Yoda coding" src="Yoda.gif">
 
 **Programming Languages:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="30" alt="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/> 
 
 **Libraries & Frameworks:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="30" alt="Matplotlib"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="30" alt="Scikit-learn"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="30" alt="Keras"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="30" alt="Node.js"/>
 
 **Databases:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="30" alt="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="30" alt="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="30" alt="MongoDB"/>
 
-**Tools:**  
-<img src="https://github.com/alissonpef/alissonpef/blob/main/microsoft-excel.png" height="30" alt="Excel"/>
-<img src="https://github.com/alissonpef/alissonpef/blob/main/powerbi.png" height="30" alt="Power BI"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="Jupyter"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker"/>
-
-**Cloud:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="AWS"/>
-
-**Artificial Intelligence Techniques:**  
-<img src="https://github.com/alissonpef/alissonpef/blob/main/deep-learning.png" height="30" alt="Deep Learning"/>
-<img src="https://github.com/alissonpef/alissonpef/blob/main/machine-learning.png" height="30" alt="Machine Learning"/>
+**Tools & Platforms:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="30" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="30" alt="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="30" alt="Docker"/>
 
 ---
 
