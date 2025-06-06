@@ -20,6 +20,7 @@ My name is **Álisson Ferreira**. I am a Computer Engineering student at UFSC (A
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/> 
 
 **Libraries & Frameworks:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="30" alt="Spring Boot / Spring Framework"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="30" alt="Node.js"/>
 
 **Databases:**  
