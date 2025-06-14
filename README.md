@@ -4,36 +4,12 @@ My name is **Álisson Ferreira**. I am a Computer Engineering student at UFSC (A
 
 ## 💡 About Me
 
-- 🏆 Recognized for academic performance (UFSC, 2024.2)
-- ✍️ **Content Contributor** for **Quizlet** (50M+ monthly students), creating Computer Science educational materials (PT/EN) – an experience that helps with my English.
-- 💡 Passionate about designing and implementing backend systems, working with APIs, databases, microservices, and architectural patterns.
-- 🚀 Eager to apply my knowledge in the Java and JavaScript ecosystems to tackle challenges and build backend solutions.
-
-## 🛠️ Technologies and Tools
-
 <!-- GIF - Yoda -->
 <img align="right" height="225" alt="Yoda coding" src="Yoda.gif">
 
-**Programming Languages:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="30" alt="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/> 
-
-**Libraries & Frameworks:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="30" alt="Spring Boot / Spring Framework"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="30" alt="Node.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="30" alt="Express.js"/>
-
-**Databases:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="30" alt="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="30" alt="PostgreSQL"/>
-
-**Tools & Platforms:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="30" alt="Docker"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="30" alt="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="30" alt="GitHub"/>
-
----
+- 🏆 Recognized for academic performance (UFSC, 2024.2).
+- ✍️ **Content Contributor** for **Quizlet** (50M+ monthly students), creating Computer Science educational materials (PT/EN) – an experience that helps with my English.
+- 💡 I'm currently studying backend, more specifically Java.
 
 ## 📫 My Social Networks
 
