@@ -1,6 +1,6 @@
 # 👋 Hello! Welcome to my GitHub profile!
 
-My name is **Álisson Ferreira**. I am a Computer Engineering student at UFSC (Araranguá/SC, Brazil 🇧🇷) with an expected graduation in **2027.1**, focused on **Backend Development**.
+My name is **Álisson Ferreira**. I am a Computer Engineering student at UFSC (Araranguá/SC, Brazil 🇧🇷) focused on **Backend Development**.
 
 ## 💡 About Me
 
