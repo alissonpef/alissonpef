@@ -5,7 +5,7 @@ My name is **Álisson Ferreira**. I am a Computer Engineering student at UFSC (A
 ## 💡 About Me
 
 <!-- GIF - Yoda -->
-<img align="right" height="225" alt="Yoda coding" src="Yoda.gif">
+<img align="right" height="200" alt="Yoda coding" src="Yoda.gif">
 
 - 🏆 Recognized for academic performance (UFSC, 2024.2).
 - ✍️ **Content Contributor** for **Quizlet** (50M+ monthly students), creating Computer Science educational materials (PT/EN) – an experience that helps with my English.
