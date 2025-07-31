@@ -44,13 +44,13 @@ My name is **Álisson Ferreira**. I am a Computer Engineering student at UFSC (A
 
 <p align="center">
   <a href="https://github.com/alissonpef/Book-End-API">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alissonpef&repo=Book-End-API&theme=dracula&show_owner=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alissonpef&repo=Book-End-API&theme=dracula&show_owner=true&cache_seconds=1" />
   </a>
   <a href="https://github.com/alissonpef/Flask-PDF-Protector">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alissonpef&repo=Flask-PDF-Protector&theme=dracula&show_owner=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alissonpef&repo=Flask-PDF-Protector&theme=dracula&show_owner=true&cache_seconds=1" />
   </a>
   <a href="https://github.com/alissonpef/LeadFlow_API">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alissonpef&repo=LeadFlow_API&theme=dracula&show_owner=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alissonpef&repo=LeadFlow_API&theme=dracula&show_owner=true&cache_seconds=1" />
   </a>
 </p>
 
