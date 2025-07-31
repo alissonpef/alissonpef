@@ -7,7 +7,7 @@ My name is **Álisson Ferreira**. I am a Computer Engineering student at UFSC (A
 <!-- GIF - Yoda -->
 <img align="right" height="200" alt="Yoda coding" src="Yoda.gif">
 
-- 🎓 Currently pursuing a degree in **Computer Engineering** at **UFSC**, where I was awarded the [**Academic Achievement Certificate**](https://drive.google.com/file/d/1DXtN-G6XoN93iLX3bdeRkKgREhiDM80P/view?usp=sharing) (2024.2) for outstanding performance.
+- 🎓 Currently pursuing a degree in **Computer Engineering** at **UFSC**, where I was awarded the [**Academic Achievement Certificate**](https://drive.google.com/file/d/1h1eh1FpHC6dOxthzQAxtvbFgwGC6F3zF/view?usp=sharing) (2024.2) for outstanding performance.
 - ✍️ Working as a **Content Contributor** at **Quizlet** (a platform with over 50 million monthly students), where I develop Computer Science and Mathematics study materials in a fully English-speaking environment.
 - 🚀 I'm always looking to expand my skill set, currently focusing on **Java** and the **Spring Boot** ecosystem to build robust and scalable applications.
 - 🌱 I believe in transforming complex challenges into elegant and functional software solutions.
