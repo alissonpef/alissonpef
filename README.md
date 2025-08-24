@@ -72,7 +72,7 @@ My name is **Álisson Ferreira**. I am a Computer Engineering student at UFSC (A
   <a href="mailto:alissonpef@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail"/>
   </a>
-  <a href="https://drive.google.com/file/d/1BhxHSxSz-kdqjAGO1YxXBBo4wNBaGMlJ/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+  <a href="https://drive.google.com/file/d/1Aof8vKDZGVtHfTYdwdChqk1SAepdNz4R/view?usp=sharing" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?label=&message=View%20Resume&color=4A4A4A&logo=read-the-docs&logoColor=white&style=for-the-badge" height="35" alt="Resume"/>
   </a>
 </div>
