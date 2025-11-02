@@ -13,9 +13,12 @@ My name is **Álisson Ferreira**. I am a Computer Engineering student at UFSC (A
 
 ## 🛠️ My Tech Stack
 
+## 🛠️ My Tech Stack
+
 #### Programming Languages
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="35" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="35" alt="Python"/>
 </div>
 
@@ -35,6 +38,7 @@ My name is **Álisson Ferreira**. I am a Computer Engineering student at UFSC (A
 #### Testing & Quality
 <div align="left">
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" height="35" alt="Jest"/>
+  <img src="https://img.shields.io/badge/Supertest-07BA82?style=for-the-badge&logo=testinglibrary&logoColor=white" height="35" alt="Supertest"/>
 </div>
 
 #### Tools & DevOps
