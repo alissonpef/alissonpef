@@ -1,89 +1,90 @@
-# Hi there, I'm Álisson Ferreira! 👋
-
-### 🚀 Backend Developer | Computer Engineering Student @ UFSC
-
-I'm a Computer Engineering student, currently working in the AgTech industry, engineering microservices for drone imagery analysis and geospatial data.
-
----
-
-### 💡 About Me
-
-- 💼 **Current Role:** Building a distributed platform using **Node.js (TypeScript)**, **Python**, **Docker**, and **Redis** to handle large-scale geospatial datasets at **Global Drones / Agrosmart**.
-- 🎓 **Education:** Pursuing a degree in Computer Engineering at **UFSC**.
-  - 🏆 Awarded the [**Academic Achievement Certificate**](https://drive.google.com/file/d/1h1eh1FpHC6dOxthzQAxtvbFgwGC6F3zF/view?usp=sharing) (2024.2) for outstanding performance.
-- 🌍 **Background:** Previously a Content Contributor at **Quizlet**, creating STEM educational materials in English for a global audience.
-- 🌱 **Interests:** Distributed Systems, Event-Driven Architecture, DevOps, and LLMs.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-#### Core & Backend
 <div align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="30" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="30" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="30" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" alt="Python"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="30" alt="Flask"/>
-</div>
 
-#### Data, Infrastructure & Architecture
-<div align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="30" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" height="30" alt="Prisma"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="30" alt="Redis"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Microservices-181717?style=for-the-badge&logo=microgenetics&logoColor=white" height="30" alt="Microservices"/>
-</div>
+# Hi, I'm Álisson Ferreira 👋
 
-#### Tools & Quality
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" height="30" alt="Actions"/>
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" height="30" alt="Jest"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="30" alt="Swagger"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30" alt="Linux"/>
+### 🤖 AI & Backend Engineer · Computer Vision
+
+<p>
+  <a href="https://www.linkedin.com/in/alissonpereira-ferreira">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://alissonpef.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:alissonpef@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 </div>
 
 ---
 
-### 📊 GitHub Stats
+## 💡 About Me
 
-<div align="center">
-  <a href="https://github.com/alissonpef">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonpef&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Top Languages" />
-  </a>
-  <a href="https://github.com/alissonpef">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alissonpef&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
-  </a>
-</div>
+I'm an **AI & Backend Engineer** working at the intersection of **computer vision** and **agricultural technology**. At [Global Drones](https://globaldrones.com.br), I build end-to-end AI pipelines that turn drone imagery into reliable, actionable insights for decision-making in the field.
 
-### ⭐ Featured Projects
+My work spans the full AI lifecycle, from dataset creation and model training to post-processing algorithms and production API integration, always with a focus on stability, scalability, and real-world delivery.
 
-<div align="center">
-  <a href="https://github.com/alissonpef/Book-End-API">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alissonpef&repo=Book-End-API&theme=dracula&show_owner=true&hide_border=true" alt="Book-End-API" />
-  </a>
-  <br/>
-  <br/>
-  <a href="https://github.com/alissonpef/Flask-PDF-Protector">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alissonpef&repo=Flask-PDF-Protector&theme=dracula&show_owner=true&hide_border=true" alt="Flask-PDF-Protector" />
-  </a>
-</div>
+I'm a **Computer Engineering** student at **UFSC** (graduating Dec 2026), and I'm passionate about applied AI.
+
+- 🌱 Currently deepening knowledge in **computer vision**, **MLOps**, and **LLMs**
+- 🇧🇷 Based in Araranguá, Santa Catarina, Brazil
+- 📬 Reach me at **alissonpef@gmail.com**
 
 ---
 
-### 📫 Let's Connect!
+## 🛠️ Tech Stack
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/alisson-pereira-ferreira-45022623b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="40" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:alissonpef@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="40" alt="Gmail"/>
-  </a>
-</div>
+### AI & Computer Vision
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/alissonpef/alissonpef/output/snake.svg" alt="Snake Animation" />
+### Backend & Infrastructure
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Data & Messaging
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+### Tools & Quality
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 💼 Experience
+
+**🚁 AI & Backend Engineer** · Global Drones *(Sep 2025 – present)*
+> Building computer vision pipelines for aerial image analysis in AgTech. Dataset curation, model training & validation, post-processing algorithms, async workers, and production API integration using queues and webhooks.
+
+**📚 Content Contributor** · Quizlet *(Jun 2024 – Aug 2025)*
+> Created technical study materials in Computer Science and Mathematics for a global audience of millions of users. All content produced in English.
+
+**🔬 Research Intern** · LabTeC – UFSC *(Feb 2023 – Jun 2024)*
+> Contributed to an augmented reality project funded by the Brazilian Ministry of Science, Technology and Innovation (MCTI), developing interactive animations for educational environments in public schools.
+
+**📣 Marketing Analyst** · ENEjr *(Apr 2022 – Aug 2022)*
+> Developed positioning and visibility strategies for a junior energy engineering company.
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Period |
+|--------|------------|--------|
+| B.Sc. Computer Engineering | Universidade Federal de Santa Catarina (UFSC) | 2022 – 2026 |
+
+🏆 **Academic Achievement Award** — UFSC (2024.2) · Top academic performance
+
+---
+
+![Snake animation](https://raw.githubusercontent.com/alissonpef/alissonpef/output/snake.svg)
+
+*Feel free to reach out — it'll be a pleasure to connect!* 🤝
+
 </div>
