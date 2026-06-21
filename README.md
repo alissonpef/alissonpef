@@ -2,7 +2,7 @@
 
 # Hi, I'm Álisson Ferreira 👋
 
-### 🤖 AI & Backend Engineer · Computer Vision
+### 🤖 AI Engineer · Computer Vision · Deep Learning · LLMs
 
 <p>
   <a href="https://www.linkedin.com/in/alissonpereira-ferreira">
@@ -22,48 +22,58 @@
 
 ## 💡 About Me
 
-I'm an **AI & Backend Engineer** working at the intersection of **computer vision** and **agricultural technology**. At [Global Drones](https://globaldrones.com.br), I build end-to-end AI pipelines that turn drone imagery into reliable, actionable insights for decision-making in the field.
+I'm an **AI & Computer Vision Engineer** specializing in the end-to-end development of deep learning solutions. At [Global Drones](https://globaldrones.com.br), I lead technical AI initiatives focused on large-scale infrastructure monitoring and precision biology.
 
-My work spans the full AI lifecycle, from dataset creation and model training to post-processing algorithms and production API integration, always with a focus on stability, scalability, and real-world delivery.
+My expertise spans the orchestration, training, and fine-tuning of deep neural networks (PyTorch, ConvNeXt, YOLO), building vector search architectures (Qdrant), and implementing multi-agent RAG systems with Large Language Models (LLMs).
 
-I'm a **Computer Engineering** student at **UFSC** (graduating Dec 2026), and I'm passionate about applied AI.
+I'm a **Computer Engineering** student at **UFSC** (graduating Dec 2026), passionate about applied AI.
 
 - 🌱 Currently deepening knowledge in **computer vision**, **MLOps**, and **LLMs**
 - 🇧🇷 Based in Araranguá, Santa Catarina, Brazil
 - 📬 Reach me at **alissonpef@gmail.com**
 
+
 ---
 
 ## 🛠️ Tech Stack
 
-### AI & Computer Vision
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+### Core Competencies
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-1E293B?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-1E293B?style=for-the-badge)
+![LLMs & RAG](https://img.shields.io/badge/LLMs_&_RAG-1E293B?style=for-the-badge)
 
-### Backend & Infrastructure
+### AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+### Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Data & Messaging
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-F90052?style=for-the-badge&logo=qdrant&logoColor=white)
 
 ### Tools & Quality
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
+
 ## 💼 Experience
 
-**🚁 AI & Backend Engineer** · Global Drones *(Sep 2025 – present)*
-> Building computer vision pipelines for aerial image analysis in AgTech. Dataset curation, model training & validation, post-processing algorithms, async workers, and production API integration using queues and webhooks.
+**🤖 AI & Computer Vision Engineer** · Global Drones *(May 2026 – present)*
+> Leading the technical architecture and end-to-end development of AI pipelines for large-scale infrastructure inspection and precision biology (cetacean re-identification). Orchestrating deep neural networks (PyTorch, YOLO) and vector search systems (Qdrant) integrated into production web applications.
 
-**📚 Content Contributor** · Quizlet *(Jun 2024 – Aug 2025)*
-> Created technical study materials in Computer Science and Mathematics for a global audience of millions of users. All content produced in English.
+**⚙️ Backend & AI Intern** · Global Drones *(Sep 2025 – May 2026)*
+> Bridged Software Engineering and AI by developing event-driven microservices (FastAPI, Node.js, Redis) and spatial analytical engines (GeoPandas). Built a Multi-Agent RAG bot for automated Code Review that reduced PR approval times by 65%.
+
+**📚 Content Contributor (Freelance)** · Quizlet *(Jun 2024 – Jul 2025)*
+> Created technical study materials and solutions in Computer Science and Mathematics for a global audience of millions of users. All content produced in English.
 
 **🔬 Research Intern** · LabTeC – UFSC *(Feb 2023 – Jun 2024)*
 > Contributed to an augmented reality project funded by the Brazilian Ministry of Science, Technology and Innovation (MCTI), developing interactive animations for educational environments in public schools.
