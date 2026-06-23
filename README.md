@@ -91,6 +91,49 @@ I'm a **Computer Engineering** student at **UFSC** (graduating Dec 2026), passio
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🎙️ Whisper Transcriber</h3>
+      <p align="center">
+        <a href="https://github.com/alissonpef/Whisper-Transcriber">
+          <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" />
+        </a>
+      </p>
+      <p>Desktop app for <strong>local, privacy-first audio transcription</strong> powered by Faster-Whisper. Features a global hotkey (<code>Ctrl+Shift+Space</code>), real-time waveform visualization, and an AI rewrite button using a local Qwen model to polish raw transcriptions into professional text. 100% offline.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Faster--Whisper-000?style=flat-square" />
+        <img src="https://img.shields.io/badge/Llama.cpp-4CAF50?style=flat-square" />
+        <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📰 Newsletter Curator</h3>
+      <p align="center">
+        <a href="https://github.com/alissonpef/Newsletter-Curator">
+          <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" />
+        </a>
+      </p>
+      <p>Self-hosted pipeline that transforms email newsletters into <strong>daily PDF digests and podcasts</strong>. Uses Ollama for LLM synthesis, ChromaDB for semantic vector search across the full history, and an automated TTS engine — all running locally with zero data leaving your machine.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Ollama-000?style=flat-square" />
+        <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square" />
+        <img src="https://img.shields.io/badge/Vector_Search-8B5CF6?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
